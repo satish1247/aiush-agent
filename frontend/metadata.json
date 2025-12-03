@@ -1,0 +1,8 @@
+{
+  "name": "Aiush Agent",
+  "description": "A multilingual, educational HealthSense voice assistant powered by Gemini. Features prescription OCR, context memory, and safety-first health information.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
