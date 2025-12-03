@@ -1,20 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+⚠️ Usage & Copyright Notice (Complete Version)
 
-# Run and deploy your AI Studio app
+This project is created by TB_SOLUTIONS. Strictly no unauthorized copying, redistribution, modification, or commercial usage is allowed. Any usage without prior written permission is strictly prohibited.
 
-This contains everything you need to run your app locally.
+📞 Contact for Permissions / Business:
 
-View your app in AI Studio: https://ai.studio/apps/drive/1HGMtsGf5RKlfBtDG-Fv-T3AygnuSEl1z
+Phone: 6303987443
 
-## Run Locally
+Email 1: ganisettisatish34@gmail.com
 
-**Prerequisites:**  Node.js
+Email 2: satish.torchbearer@gmail.com
 
+⚖️ Strong Legal Warning
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Legal action will be taken against any individual, organization, or third party who uses, copies, distributes, or publishes this project without official permission from TB_SOLUTIONS.
+
+🔥 Branding
+
+Powered by TORCH BEARER – Lightning the future, Transforming the world.
+
+📘 Educational / Open-Source Friendly Note
+
+You may explore and learn from this project code, but reuse, republishing, or deployment without approval is not allowed. To obtain usage permission, please contact the details provided above.
